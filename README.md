@@ -151,6 +151,11 @@ By setting up Queen Amdi Bot you are considered to have assumed these responsibi
 
 [Black Amda](https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ)
 
+## Co Creator 
+
+
+[![King Amda](https://github.com/King-Amda.png?size=100)]
+
 ## License
 This project is protected by the `GNU General Public License v3.0.`
 Do not edit copyright messages!
